@@ -1,1 +1,2 @@
-# aula_git_github
+# PyOhm ONE
+Calculadora da primeira Lei de Ohm em Python
